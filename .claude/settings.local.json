@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/anand/Desktop/ui-ux-pro-max-skill/**)",
+      "Bash(python3 src/ui-ux-pro-max/scripts/search.py \"education platform accounting quiz exam\" --domain product -n 5)"
+    ]
+  }
+}
